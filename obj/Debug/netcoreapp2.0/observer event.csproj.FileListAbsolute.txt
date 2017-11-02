@@ -1,0 +1,10 @@
+C:\Users\matte\Desktop\observer event\bin\Debug\netcoreapp2.0\observer event.deps.json
+C:\Users\matte\Desktop\observer event\bin\Debug\netcoreapp2.0\observer event.runtimeconfig.json
+C:\Users\matte\Desktop\observer event\bin\Debug\netcoreapp2.0\observer event.runtimeconfig.dev.json
+C:\Users\matte\Desktop\observer event\bin\Debug\netcoreapp2.0\observer event.dll
+C:\Users\matte\Desktop\observer event\bin\Debug\netcoreapp2.0\observer event.pdb
+C:\Users\matte\Desktop\observer event\obj\Debug\netcoreapp2.0\observer event.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\observer event\obj\Debug\netcoreapp2.0\observer event.AssemblyInfoInputs.cache
+C:\Users\matte\Desktop\observer event\obj\Debug\netcoreapp2.0\observer event.AssemblyInfo.cs
+C:\Users\matte\Desktop\observer event\obj\Debug\netcoreapp2.0\observer event.dll
+C:\Users\matte\Desktop\observer event\obj\Debug\netcoreapp2.0\observer event.pdb

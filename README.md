@@ -1,2 +1,2 @@
 # pattern-observer-event-news
-Pattern observer example using C# events and delegates.
+Pattern Observer example using C# events and delegates.
